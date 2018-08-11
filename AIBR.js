@@ -1,6 +1,6 @@
 const Map      = require("./src/Map").Map
 const Player   = require("./src/Player")
-const Server   = require("./Server")
+const Server   = require("./src/Server")
 const x = 100
 const y = 50
 const z = 100
